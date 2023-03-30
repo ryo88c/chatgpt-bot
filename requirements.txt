@@ -1,0 +1,8 @@
+flask
+uWSGI
+requests
+python-dotenv
+openai >= 0.27.0
+injector
+redis
+slack_bolt
